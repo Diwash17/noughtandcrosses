@@ -1,0 +1,1 @@
+{"Stella": 4, "Diwash": 6, "Ankit": 5, "Pratik": 3}
